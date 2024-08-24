@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **gaelorian1107@gmail.com**
 
+- 💫 My main language it's JS/TS
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
