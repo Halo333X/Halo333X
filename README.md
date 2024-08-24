@@ -13,7 +13,7 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img
@@ -83,7 +83,7 @@
     height="40"
   />
 </a>
-<br>
+<h3 align="left">Tools</h3>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
