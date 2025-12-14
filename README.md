@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Eternal Creations Projects](https://github.com/Eternal-Creations)
 
-- 🌱 I’m currently learning **Java and C#**
+- 🌱 I’m currently learning **React and C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Halo333X?tab=repositories](https://github.com/Halo333X?tab=repositories)
 
