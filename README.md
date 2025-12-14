@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Halo333X</h1>
 <h3 align="center">A passionate Full-Stack and Minecraft Bedrock Addon Developer.</h3>
 
-- 🔭 I’m currently working on [Eternal Creations Projects](https://github.com/Eternal-Creations)
-
 - 🌱 I’m currently learning **React and C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Halo333X?tab=repositories](https://github.com/Halo333X?tab=repositories)
